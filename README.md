@@ -4,7 +4,7 @@ Halaman Website Study Kasus.
 
 ### Home (index.html) :
 
-![home](screen/home.png
+![home](screen/home.png)
 
 
 ### Features (features.html) :
